@@ -1,7 +1,7 @@
 # BattleArena
 Text Based Combat Simulator
 
-![screen grab](https://github.com/[schnaible]/[BattleArena]/screen.jpg?raw=true)
+![screen grab](screen.jpg)
 
 compile with `g++ main.cpp -o BattleArena`
 
